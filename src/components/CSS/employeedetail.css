@@ -1,0 +1,43 @@
+.back-btn{
+    background-color: rgb(0, 174, 255);
+    width: 90px;
+    border-radius: 5px;
+    margin-top: 30px;
+    color: white;
+    text-decoration: none;
+    height: 50px;
+    font-size: 18px;
+}
+.back-btn:hover{
+    background-color: rgb(18, 144, 202);
+}
+.emp-container{
+    background-color: white;
+}
+.list-item{
+    text-align: left;
+    font-size: 23px;
+}
+.btn-container{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.edit-btn{
+    background-color: rgb(255, 136, 0);
+    width: 90px;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    color: white;
+    text-decoration: none;
+    height: 50px;
+    font-size: 18px;
+}
+.edit-btn:hover{
+    background-color: rgb(206, 131, 45);
+
+}

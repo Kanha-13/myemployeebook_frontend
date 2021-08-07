@@ -1,0 +1,61 @@
+.container{
+    /* background-color: #334756; */
+    background: #ffffff52;
+    box-shadow: 15px 15px 30px;
+    width: 30vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.title{
+    background-color: #082032;
+    margin: 30px 0px 10px 0px;
+    color: white;
+}
+#loginForm,#signupForm{
+    display: flex;
+    margin: 30px 0px 10px 0px;
+    flex-direction: column;
+}
+.Credentials{
+    width: 80%;
+    align-self: center;
+    margin: 10px 5px;
+    outline: none;
+    height: 26px;
+    border: none;
+    padding: 2px 2px;
+}
+button{
+    background-color: #334756;
+    color: white;
+    width: 78%;
+    margin: 30px 5px 0px 5px;
+    font-size: 21px;
+    height: 50px;
+    border: none;
+    align-self: center;
+    outline: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #2b4355;
+}
+.credential-wrapper{
+    background-color: white;
+    display: flex;
+    margin-bottom: 15px;
+    padding-left:10px ;
+    align-items: center;
+    width: 75%;
+    align-self: center;
+}
+.signUp-loginLink{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+}

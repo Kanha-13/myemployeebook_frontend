@@ -1,0 +1,60 @@
+#empList{
+    border: 2px solid black;
+    background-color: white;
+    width: 90%;
+    align-self: center;
+    margin: 30px 10px;
+}
+#emptable{
+    width: 100%;
+}
+.table-head{
+    background-color: #082032;
+    height: 50px;
+    color: white;
+}
+.btn{
+    display: inline;
+    width:150px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: none;
+}
+.action-btn{
+    margin: 3px 3px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.primary{
+    border: 2px solid black;
+    background-color: rgb(71, 140, 204);
+}
+.secondary{
+    border: 2px solid black;
+    background-color: rgb(183, 194, 34);
+}
+.danger{
+    border: 2px solid black;    
+    background-color: rgb(255, 0, 0);
+}
+.data-tr{
+    margin: 20px 0px;
+    height: 40px;
+}
+table{
+    border-collapse: collapse;
+}
+.data-tr:hover{
+    background-color: #FF4C29;
+}
+.filterSearch{
+    background-color: #082032;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#searchEmp{
+    border-left: 2px solid grey;
+}

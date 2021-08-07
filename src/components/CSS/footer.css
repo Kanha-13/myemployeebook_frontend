@@ -1,0 +1,13 @@
+#footer{
+    width: 100vw;
+    background-color: #082032;
+    color: white;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    align-self: flex-end;
+    position: absolute;
+    top: 92.4vh;
+}

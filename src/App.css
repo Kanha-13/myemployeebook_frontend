@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* ================ */
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../src/components/images/empBG.jpg");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+    flex-direction: column;
+}
